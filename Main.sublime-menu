@@ -1,0 +1,12 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Folding Text",
+                "command": "folding"
+            }
+        ]
+    }
+]
